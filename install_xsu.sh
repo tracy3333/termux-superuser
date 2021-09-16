@@ -61,7 +61,7 @@ function banner_termux-superuser() {
 
 banner_termux-superuser
 
-apt-Update
+apt-update
 
 echo " "
 echo " Press ENTER to continue ..."
